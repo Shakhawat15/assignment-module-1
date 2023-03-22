@@ -1,6 +1,6 @@
 /**
  * Question: Write a program that generates a multiplication table for a given number using a for loop.
- * Author: Md Shakhawat Hossen
+ * Solved By: Md Shakhawat Hossen
  * Date: 22-03-2023
  */
 
@@ -12,7 +12,7 @@
  */
 function multiplicationTable(num) {
     // Use for loop to iterates 1 to 10
-    for(let i = 1; i <= 10; i++) {
+    for (let i = 1; i <= 10; i++) {
         // Calculate the given number and the iteration number
         const results = `${num} * ${i} = ${num * i}`;
         // Show results in console
