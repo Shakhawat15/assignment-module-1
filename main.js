@@ -20,5 +20,5 @@ function multiplicationTable(num) {
     }
 }
 
-// Invoke the multiplication function
+// Invoke the multiplicationTable() function
 multiplicationTable(5);
